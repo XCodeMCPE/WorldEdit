@@ -3,7 +3,10 @@ author: LDX
 version: 1.0a
 main: LDX\WorldEdit\Main
 load: POSTWORLD
-api: 2.0.0
+api:
+- 2.0.0
+- 3.0.0
+- 3.0.0-ALPHA5
 website: "https://github.com/LDX-MCPE/WorldEdit"
 commands:
   /:
